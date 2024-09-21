@@ -16,21 +16,40 @@ Sou estudante de programação, atualmente em busca de experiência. Tenho conhe
 
 ## Formação complementar
 
-<div style="display: flex; align-items: center;">
-
-<div>
-
-<strong>Certificado Alura: Programa Oracle Next Education - F2 T5 Front-end</strong>
+**Certificado Alura: Programa Oracle Next Education - F2 T5 Front-end**
 > - Período: Concluído em 29/09/2023
 
-</div>
-<img width='150' src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211659Prancheta_4.png?utm_campaign=alura_latam_-_challenge_email_projeto_3_br&utm_medium=email&utm_source=RD+Station" alt="ONE Oracle Next Education"/>
-
-</div>
 
 ## Tecnologias que utilizo
-<div style="display: inline-block">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-</div>
+
+#### 📋 Languages
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### 📚 Frameworks, Platforms and Libraries
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 💾 Databases
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🎨 Design
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+#### 🕓 Version Control
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## Contato
+
+* Email: *williamsaraujo.dev@gmail.com*
+* Whatsapp: *(82) 98234-3427*
