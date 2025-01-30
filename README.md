@@ -8,7 +8,7 @@ Sou estudante de programação, atualmente em busca de experiência. Tenho conhe
 
 **Análise e Desenvolvimento de Sistemas**
 > - **Instituição: UNOPAR**
-> - **Período: ABRIL de 2024 - SETEMBRO de 2026**
+> - **Período: ABRIL de 2024 - JUNHO de 2026**
 
 **Técnico em Informática**
 > - **Instituição: SENAC**
