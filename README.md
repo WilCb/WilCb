@@ -51,5 +51,7 @@ Sou estudante de programação, atualmente em busca de experiência. Tenho conhe
 
 ## Contato
 
+* Twitter(X): [@WilCbDev](https://x.com/WilCbDev)
+* LinkedIn: [linkedin.com/in/williams-araujo-front-end](https://www.linkedin.com/in/williams-araujo-front-end)
 * Email: *williamsaraujo.dev@gmail.com*
 * Whatsapp: *(82) 98234-3427*
