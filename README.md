@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=1000&pause=1000&background=72DFFF00&width=435&lines=Ol%C3%A1%2C+me+chamo+Williams+!)](https://git.io/typing-svg)
 
 <p>
-Sou estudante de programação, atualmente em busca de experiência. Tenho conhecimento em front-end e estou me desenvolvendo no back-end para me tornar um desenvolvedor full-stack.
+Desenvolvedor em formação, com foco em back-end, Python e banco de dados. Buscando evoluir como dev ou DBA.
 </p>
 
 ## Formação Acadêmica
