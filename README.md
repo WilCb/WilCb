@@ -41,6 +41,18 @@ Atualmente estagiário no <strong>SENAI</strong>, atuando com <strong>análise d
 
 ---
 
+## 🧠 Experiência Profissional Anterior
+
+**Atendimento ao Cliente / Call Center**  
+> - **Período:** Julho de 2017 – Fevereiro de 2025  
+> - Atuação em atendimento ao cliente e suporte  
+> - Desenvolvimento de habilidades em comunicação, análise de problemas e trabalho sob pressão  
+> - Experiência com metas, indicadores e rotinas corporativas  
+
+> *Atualmente em transição de carreira para a área de Tecnologia, com foco em desenvolvimento e análise de dados.*
+
+---
+
 ## 📚 Formação Complementar
 
 **Programa Oracle Next Education (ONE) – Front-end**  
