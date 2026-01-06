@@ -105,6 +105,6 @@ Atualmente estagiário no <strong>SENAI</strong>, atuando com <strong>análise d
 ## 📫 Contato
 
 - Twitter (X): [@WilCbDev](https://x.com/WilCbDev)  
-- LinkedIn: [linkedin.com/in/williams-araujo-front-end](https://www.linkedin.com/in/williams-araujo-front-end)  
+- LinkedIn: [linkedin.com/in/wilcb](https://www.linkedin.com/in/wilcb/) 
 - Email: **williamsaraujo.dev@gmail.com**  
 - WhatsApp: **(82) 98234-3427**
