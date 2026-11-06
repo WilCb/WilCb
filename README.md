@@ -23,8 +23,7 @@ Atualmente estagiário no <strong>SENAI</strong>, atuando com <strong>análise d
 
 **Estagiário em Tecnologia da Informação – Análise de Dados**  
 **SENAI**  
-> - **Início:** 19 de setembro de 2025  
-> - **Status:** Em andamento  
+> - **Período:** 19 de setembro de 2025 - 31/07/2026
 > - Atuação com <strong>análise de dados</strong>, organização, tratamento e apoio à tomada de decisão  
 > - Manipulação de dados em bancos relacionais e apoio a relatórios e indicadores  
 > - Contato com boas práticas de dados, rotinas técnicas e ambiente corporativo
